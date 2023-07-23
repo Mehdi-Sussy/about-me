@@ -1,4 +1,5 @@
-![ezgif com-video-to-gif](https://github.com/Mehdi-Sussy/About-me/assets/139323872/6421e89d-4b57-4246-b8ab-1dc91ce32e5e)
+![ezgif com-video-to-gif](https://github.com/Mehdi-Sussy/Mehdi-Sussy/assets/139323872/aff755f9-1b50-42bb-9887-8d1894f083f1)
+
 <h1 align="center">It's Time to poomp the mooscles</h1>
 <h1 align="center">Hi 👋, I'm Mehdi Zareian</h1>
 <h3 align="center">A Student in Web Development and currently learning JS.</h3>
